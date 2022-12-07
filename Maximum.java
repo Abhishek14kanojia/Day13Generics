@@ -1,11 +1,11 @@
 package com.day13Generics;
 
 public class Maximum<T extends Number> {
-	Integer a;
-	Integer b;
-	Integer c;
+	Float a;
+	Float b;
+	Float c;
 	
-	public void maximumNumber(Integer a, Integer b, Integer c) {
+	public void maximumNumber(Float a, Float b, Float c) {
 		this.a = a;
 		this.b = b;
 		this.c = c;
