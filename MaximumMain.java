@@ -15,9 +15,5 @@ public class MaximumMain {
 	obj2.getValue(doubleArray);
 	obj3.getValue(stringArray);
 	
-	obj1.maxi();
-	obj2.maxi();
-	obj3.maxi();
-	
 	}
 }
